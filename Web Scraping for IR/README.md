@@ -1,6 +1,6 @@
 # Web Text Extraction and Preprocessing for Information Retrieval
 
-A beginner-friendly Information Retrieval (IR) lab that extracts text from a web page and preprocesses it for downstream text retrieval tasks.
+A Information Retrieval (IR) projecct that extracts text from a web page and preprocesses it for downstream text retrieval tasks.
 
 ## Project Overview
 
@@ -41,7 +41,7 @@ The version pins in `requirements.txt` are recommended reproducible versions; th
    pip install -r requirements.txt
    ```
 
-3. Open `IR_lab01.ipynb` in Jupyter Notebook, JupyterLab, or Google Colab.
+3. Open `code.ipynb` in Jupyter Notebook, JupyterLab, or Google Colab.
 4. Run the cells from top to bottom.
 
 The notebook downloads the NLTK resources with `nltk.download('punkt')` and `nltk.download('stopwords')`. Depending on the installed NLTK version, tokenization may also require the `punkt_tab` resource. If you encounter a `LookupError` mentioning `punkt_tab`, run:
