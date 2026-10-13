@@ -1,7 +1,7 @@
 # TF-IDF Search and Retrieval Evaluation
 
 ## Overview
-This lab builds a simple ranked document-retrieval system using TF-IDF vectorization and cosine similarity. It accepts a user-entered query, ranks three sample documents by similarity, and evaluates binary relevance predictions using common classification metrics.
+This notebook builds a simple ranked document-retrieval system using TF-IDF vectorization and cosine similarity. It accepts a user-entered query, ranks three sample documents by similarity, and evaluates binary relevance predictions using common classification metrics.
 
 ## Dataset
 The notebook uses three manually defined documents:
@@ -27,7 +27,7 @@ The search query is entered by the user at runtime.
 - scikit-learn
 
 ## Run
-1. Open `IR_Lab05.ipynb` in Jupyter Notebook or Google Colab.
+1. Open `code.ipynb` in Jupyter Notebook or Google Colab.
 2. Install the packages in `requirements.txt` if needed.
 3. Run the cells in order and enter a search query when prompted.
 
