@@ -1,7 +1,7 @@
 # Query Expansion with WordNet for Information Retrieval
 
 ## Overview
-This lab explores query expansion for Information Retrieval (IR) using WordNet synonyms. It compares document rankings for the ambiguous query `light` before and after adding synonyms.
+This section explores query expansion for Information Retrieval (IR) using WordNet synonyms. It compares document rankings for the ambiguous query `light` before and after adding synonyms.
 
 ## Dataset
 The notebook defines three sample documents about different meanings of “light”:
@@ -24,7 +24,7 @@ The notebook defines three sample documents about different meanings of “light
 - scikit-learn
 
 ## Run
-1. Open `IR_Lab06.ipynb` in Jupyter Notebook or Google Colab.
+1. Open `code.ipynb` in Jupyter Notebook or Google Colab.
 2. Install dependencies from `requirements.txt`.
 3. Run cells from top to bottom. The first run requires internet access to download WordNet resources.
 
