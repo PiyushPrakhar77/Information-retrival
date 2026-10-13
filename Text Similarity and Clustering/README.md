@@ -1,7 +1,7 @@
 # Document Clustering for Information Retrieval
 
 ## Overview
-This lab explores document clustering and similarity-based retrieval using TF-IDF features. It applies K-Means clustering to six short documents, assigns a test query to a cluster, computes document cosine similarities, and visualizes hierarchical relationships with a dendrogram.
+This notebook explores document clustering and similarity-based retrieval using TF-IDF features. It applies K-Means clustering to six short documents, assigns a test query to a cluster, computes document cosine similarities, and visualizes hierarchical relationships with a dendrogram.
 
 ## Sample documents
 - **D1:** Information retrieval system
@@ -30,7 +30,7 @@ This lab explores document clustering and similarity-based retrieval using TF-ID
 - Matplotlib
 
 ## Run
-1. Open `IR_Lab08.ipynb` in Jupyter Notebook or Google Colab.
+1. Open `code.ipynb` in Jupyter Notebook or Google Colab.
 2. Install the dependencies listed in `requirements.txt`.
 3. Run all cells in order to see the TF-IDF matrix, cluster labels, similarity matrices, dendrogram, and most-similar document.
 
