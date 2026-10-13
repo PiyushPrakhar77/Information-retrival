@@ -1,7 +1,7 @@
 # Positional Indexing and Phrase Search
 
 ## Overview
-This lab demonstrates positional indexing for Information Retrieval (IR). It builds an index that records where each term occurs in each document, then uses those positions to answer exact phrase queries.
+This notebook demonstrates positional indexing for Information Retrieval (IR). It builds an index that records where each term occurs in each document, then uses those positions to answer exact phrase queries.
 
 ## Objectives
 - Tokenize document text into lowercase terms.
@@ -22,7 +22,7 @@ The notebook uses three small, manually defined sample documents:
 4. The notebook asks the user to enter a phrase query and displays matching documents and positions.
 
 ## Run
-Open `IR_Lab03.ipynb` in Jupyter Notebook or Google Colab and run the cells from top to bottom.
+Open `code.ipynb` in Jupyter Notebook or Google Colab and run the cells from top to bottom.
 
 ## Requirements
 - Python 3.8 or later
