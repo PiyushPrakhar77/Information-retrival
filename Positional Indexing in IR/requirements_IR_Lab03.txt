@@ -1,2 +1,0 @@
-# No third-party packages are required.
-# Uses Python's standard-library re and collections modules.
