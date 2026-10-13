@@ -1,7 +1,7 @@
 # Multinomial Naive Bayes Text Classification
 
 ## Overview
-This lab implements a simple Multinomial Naive Bayes classifier from scratch. It learns word frequencies from a small labeled text dataset, calculates class prior and smoothed conditional probabilities, and predicts the class of a test document.
+This notebook implements a simple Multinomial Naive Bayes classifier from scratch. It learns word frequencies from a small labeled text dataset, calculates class prior and smoothed conditional probabilities, and predicts the class of a test document.
 
 ## Dataset
 The notebook uses four short training documents labeled with two classes:
@@ -24,7 +24,7 @@ The test document is `Taiwan Taiwan Sapporo`.
 - No third-party packages required; the notebook uses Python standard-library modules `collections` and `math`.
 
 ## Run
-1. Open `IR_Lab07.ipynb` in Jupyter Notebook or Google Colab.
+1. Open `code.ipynb` in Jupyter Notebook or Google Colab.
 2. Run all cells in order.
 3. Review the vocabulary, class counts, priors, log posterior scores, and predicted class.
 
