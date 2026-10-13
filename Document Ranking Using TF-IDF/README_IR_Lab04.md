@@ -1,7 +1,7 @@
 # TF-IDF and Cosine Similarity for Information Retrieval
 
 ## Overview
-This lab implements a small ranked-retrieval system. It preprocesses sample documents and a query, builds TF-IDF vectors, computes cosine similarity, and ranks documents by their similarity to the query.
+This notebook implements a small ranked-retrieval system. It preprocesses sample documents and a query, builds TF-IDF vectors, computes cosine similarity, and ranks documents by their similarity to the query.
 
 ## Dataset
 The notebook defines five sample documents in Python:
@@ -25,7 +25,7 @@ The notebook defines five sample documents in Python:
 - NLTK
 
 ## Run
-1. Open `IR_Lab04.ipynb` in Jupyter Notebook or Google Colab.
+1. Open `code.ipynb` in Jupyter Notebook or Google Colab.
 2. Install the packages listed in `requirements.txt` if needed.
 3. Run the notebook cells in order. The first run may need an internet connection to download NLTK stop words.
 
