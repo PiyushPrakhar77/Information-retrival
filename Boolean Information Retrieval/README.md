@@ -1,7 +1,7 @@
 # Boolean Information Retrieval Using an Inverted Index
 
 ## Overview
-This lab demonstrates a basic Information Retrieval (IR) system using an inverted index and Boolean queries in Python.
+This notebook demonstrates a basic Information Retrieval (IR) system using an inverted index and Boolean queries in Python.
 
 ## Objectives
 - Normalize document text by converting it to lowercase.
@@ -25,7 +25,7 @@ Example queries in the notebook:
 - No third-party Python packages are required; the implementation uses the standard-library `re` module.
 
 ## Run
-1. Open `IR_Lab02.ipynb` in Jupyter Notebook or Google Colab.
+1. Open `code.ipynb` in Jupyter Notebook or Google Colab.
 2. Run the cells from top to bottom.
 3. Inspect the printed inverted index and Boolean query results.
 
